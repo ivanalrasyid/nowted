@@ -1,0 +1,50 @@
+.wrapper-content {
+  margin-top: -1550px;
+  z-index: -1;
+  color: white;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 20px !important;
+  line-height: 60px !important;
+  text-align: center;
+  color: #ffffff;
+}
+
+.paragraghContent {
+  width: 550px;
+  height: 60px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 34px;
+  color: rgba(255, 255, 255, 0.6);
+  margin-inline: auto;
+  margin-top: -60px;
+}
+
+.primary-content {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 60px;
+  text-align: center;
+  color: #ffffff;
+  margin-inline: auto;
+  height: 100%;
+  width: 60%;
+}
+
+.btnTryForFree {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  width: 200px;
+  height: 60px;
+  background: rgb(58, 58, 244);
+  border-radius: 3px;
+  margin-inline: auto;
+}
